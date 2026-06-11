@@ -21,5 +21,5 @@ uma pagina onde simula um cartão haker
 
 ## Autora
 
-- [@cigarraa](https://github.com/cigarraa)
+- [@LauraCirino](https://github.com/LauraCirino)
 
